@@ -1,4 +1,4 @@
-![Stukid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sizsss&show_icons=true)
+![Sizss's GitHub stats](https://github-readme-stats.vercel.app/api?username=sizsss&show_icons=true)
 
 <img src="https://count.getloli.com/get/@:sizsss" alt=":sizsss" />
 
