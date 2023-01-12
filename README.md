@@ -1,7 +1,6 @@
-![Stukid's GitHub stats](https://github-readme-stats.vercel.app/api?username=stukid05&show_icons=true)
+![Stukid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sizsss&show_icons=true)
 
-<img src="https://count.getloli.com/get/@:Stukid05" alt=":Stukid05" />
+<img src="https://count.getloli.com/get/@:sizsss" alt=":sizsss" />
 
-![Stukid](https://komarev.com/ghpvc/?username=Stukid05)
-![Stukid](https://visitor-badge.glitch.me/badge?page_id=Stukid05.profile)
-
+![Sizss](https://komarev.com/ghpvc/?username=sizsss)
+![Sizss](https://visitor-badge.glitch.me/badge?page_id=sizsss.profile)
