@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sizsss)
+![Sizss's GitHub stats](https://github-readme-stats.vercel.app/api?username=sizsss)
 
 <img src="https://count.getloli.com/get/@:sizsss" alt=":sizsss" />
 
