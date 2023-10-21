@@ -1,6 +1,6 @@
-![Sizss's GitHub stats](https://github-readme-stats.vercel.app/api?username=sizsss)
+![LXTSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxy060505)
 
-<img src="https://count.getloli.com/get/@:sizsss" alt=":sizsss" />
+<img src="https://count.getloli.com/get/@:lxy060505" alt=":lxy060505" />
 
-![Sizss](https://komarev.com/ghpvc/?username=sizsss)
-![Sizss](https://visitor-badge.glitch.me/badge?page_id=sizsss.profile)
+![LXYSS](https://komarev.com/ghpvc/?username=lxy060505)
+![LXYSS](https://visitor-badge.glitch.me/badge?page_id=lxy060505.profile)
